@@ -1,5 +1,4 @@
-int LED[] = {10, 9, 8, 7, 6, 5};
-
+int LED[] = {D0, D3, D4, D5, D6, D7};
 void setup()
 {
   Serial.begin (115200);
